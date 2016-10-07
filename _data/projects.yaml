@@ -1,0 +1,49 @@
+- title: SOLIS - Instituto de Solidariedade
+  url: http://institutosolis.org
+  image: images/projects/solis.gif
+  completed: true
+
+- title: Eletroinfo
+  url: http://www.eletroinfoslz.com.br/
+  image: images/projects/eletroinfo.gif
+  completed: true
+
+- title: CICEBRIS
+  url: http://www.estrelabrilhante.org
+  image: images/projects/cicebris.gif
+  completed: true
+
+- title: TICS - Eletronic Scientific Publication
+  url: http://www.uemanet.uema.br/revista/
+  image: images/projects/ticsead.gif
+  completed: true
+
+- title: MARCLEAN - Industria e Comércio
+  url: http://www.marclean.ind.br
+  image: images/projects/marclean.gif
+  completed: true
+
+- title: Lar de Maria
+  url: http://institutosolis.org/lardemaria
+  image: images/projects/lardemaria.gif
+  completed: true
+
+- title: Professor Bruno
+  url: http://www.professorbruno.xyz
+  image: images/projects/professorbruno.gif
+  completed: true
+
+- title: I Copa Quilombola
+  url: http://institutosolis.org/copaquilombola
+  image: images/projects/copa.gif
+  completed: true
+
+- title: Professional Portfolio
+  url: https://
+  image: images/projects/portfolio.gif
+  completed: false
+
+- title: Professional Page
+  url: http://deborahbregantino.com
+  image: images/projects/deborah.gif
+  completed: false
