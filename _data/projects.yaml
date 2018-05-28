@@ -1,3 +1,8 @@
+- title: 7Bminer (Em parceria com Infinity)
+  url: http://7bminer.com
+  image: images/projects/7bminer.gif
+  completed: true
+
 - title: SOLIS - Instituto de Solidariedade
   url: http://institutosolis.org
   image: images/projects/solis.gif
@@ -29,12 +34,12 @@
   completed: true
 
 - title: Professor Bruno
-  url: http://www.professorbruno.xyz
+  url: http://
   image: images/projects/professorbruno.gif
   completed: true
 
 - title: I Copa Quilombola
-  url: http://institutosolis.org/copaquilombola
+  url: http://
   image: images/projects/copa.gif
   completed: true
 
@@ -44,6 +49,6 @@
   completed: false
 
 - title: Professional Page
-  url: http://deborahbregantino.com
+  url: http://
   image: images/projects/deborah.gif
   completed: false
